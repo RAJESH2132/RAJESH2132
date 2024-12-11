@@ -11,7 +11,7 @@
 - **Languages**: JavaScript | TypeScript | Python | HTML | CSS  
 - **Frameworks**: React | Node.js | Express.js | jQuery  
 - **Databases**: MongoDB | MySQL  
-- **Tools & Platforms**: Docker | Git | Postman  
+- **Tools & Platforms**: Docker | Git | GitHub | Postman  
 
 ### 🌱 **What I’m Currently Exploring**
 - Enhancing my expertise in building scalable full-stack web applications.
