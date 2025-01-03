@@ -20,16 +20,16 @@
 
 ### 🏆 **What I’m Looking For**  
 - **Exciting opportunities** in software development to kickstart my career.  
-- Teams where I can contribute, grow, and create value.  
-
+- Teams where I can contribute, grow, and create value.
+  
 ### 🎯 **What Makes Me Tick**  
 - 🤔 Love solving **coding challenges (DSA)** to sharpen my logical thinking.  
 - 📚 Constantly experimenting with **new tools** and **technologies** to stay ahead.  
 - 🔧 Thrilled by building scalable, efficient, and user-friendly software solutions.  
 
-
 ### 🌟 **Let's Connect**  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/rajesh-kumar-nagurla]  
+- 🌐 Portfolio: [https://rajesh-nagurla-portfolio.netlify.app/]
  
 ---
 # 📊 GitHub Stats:
