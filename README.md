@@ -9,7 +9,7 @@
 
 ### 💻 **My Tech Arsenal**  
 - **Languages**: JavaScript | TypeScript | Python | HTML | CSS  
-- **Frameworks**: React | Node.js | Express.js | jQuery  
+- **Frameworks**: React | Node.js | Express.js | jQuery  | Tailwind CSS
 - **Databases**: MongoDB | MySQL  
 - **Tools & Platforms**: Docker | Git | GitHub | Postman  
 
