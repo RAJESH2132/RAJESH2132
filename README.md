@@ -10,9 +10,10 @@
 
 ### 💻 **My Tech Arsenal**  
 - **Languages**: JavaScript | TypeScript | Python | HTML | CSS  
-- **Frameworks**: React | Node.js | Express.js | jQuery  | Tailwind CSS
+- **Frontend**: React | Redux | Tailwind CSS | jQuery
+- **Backend**: Node.js | Express.js
 - **Databases**: MongoDB | MySQL  
-- **Tools & Platforms**: Docker | Git | GitHub | Postman  
+- **Tools & Platforms**: Git | GitHub | Docker | Postman
 
 ### 🌱 **What I’m Currently Exploring**
 - Enhancing my expertise in building scalable full-stack web applications.
@@ -26,7 +27,7 @@
 ### 🎯 **What Makes Me Tick**  
 - 🤔 Love solving **coding challenges (DSA)** to sharpen my logical thinking.  
 - 📚 Constantly experimenting with **new tools** and **technologies** to stay ahead.  
-- 🔧 Thrilled by building scalable, efficient, and user-friendly software solutions.  
+- 🔧 Thrilled by building scalable, efficient, and user-friendly software solutions.  A
 
 ### 🌟 **Let's Connect**  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/rajesh-kumar-nagurla]  
