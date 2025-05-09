@@ -8,7 +8,7 @@
 - Passionate about continuous learning and mastering Full-Stack Development (MERN).
 - Committed to collaborating, innovating, and creating exceptional user experiences.
 
-### 💻 **My Tech Arsenal**  
+### 💻 **My Tech Arsenal**   
 - **Languages**: JavaScript | TypeScript | Python | HTML | CSS  
 - **Frontend**: React | Redux | Tailwind CSS | jQuery
 - **Backend**: Node.js | Express.js
