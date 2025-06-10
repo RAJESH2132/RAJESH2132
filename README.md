@@ -27,7 +27,7 @@
 ### 🎯 **What Makes Me Tick**  
 - 🤔 Love solving **coding challenges (DSA)** to sharpen my logical thinking.  
 - 📚 Constantly experimenting with **new tools** and **technologies** to stay ahead.  
-- 🔧 Thrilled by building scalable, efficient, and user-friendly software solutions.  A
+- 🔧 Thrilled by building scalable, efficient, and user-friendly software solutions.
 
 ### 🌟 **Let's Connect**  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/rajesh-kumar-nagurla]  
