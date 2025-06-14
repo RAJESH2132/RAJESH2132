@@ -10,7 +10,7 @@
 
 ### 💻 **My Tech Arsenal**
 - **Languages**: JavaScript | TypeScript | Python | HTML | CSS  
-- **Frontend**: React | Redux | Tailwind CSS | jQuery
+- **Frontend**: Next.js | React | Redux | Tailwind CSS | jQuery
 - **Backend**: Node.js | Express.js
 - **Databases**: MongoDB | MySQL  
 - **Tools & Platforms**: Git | GitHub | Docker | Postman
