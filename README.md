@@ -1,4 +1,4 @@
-# 💫 About Me 
+# 💫 About Me
 
 ✨ Hi there! I'm Rajesh Kumar, a recent graduate with a strong foundation in full-stack development and a passion for problem-solving. I specialize in building dynamic, user-friendly applications and tackling challenges with innovative solutions. Proficient in JavaScript, React, Node.js, and databases like MongoDB and MySQL, I’m eager to contribute my skills, grow as a developer, and make a meaningful impact as part of a collaborative team. Open to exciting opportunities in full-stack development where I can apply my problem-solving mindset to real-world challenges!
 
