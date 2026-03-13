@@ -1,4 +1,4 @@
-# 💫 About Me
+  # 💫 About Me
 
 ✨ Hi there! I'm Rajesh Kumar, a recent graduate with a strong foundation in full-stack development and a passion for problem-solving. I specialize in building dynamic, user-friendly applications and tackling challenges with innovative solutions. Proficient in JavaScript, React, Node.js, and databases like MongoDB and MySQL, I’m eager to contribute my skills, grow as a developer, and make a meaningful impact as part of a collaborative team. Open to exciting opportunities in full-stack development where I can apply my problem-solving mindset to real-world challenges!
 
@@ -35,9 +35,6 @@
  
 ---
 # 📊 GitHub Stats:
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESH2132&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![Stats](https://github-readme-stats.vercel.app/api?username=RAJESH2132&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESH2132&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=RAJESH2132&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RAJESH2132&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESH2132&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
